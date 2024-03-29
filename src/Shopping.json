@@ -1,0 +1,93 @@
+{
+  "brands": [
+
+    {
+      "id": 1,
+      "name": "ARROW",
+      "locations": ["dwarka"],
+      "filter": ["Apparel"],
+      "logo": "./images/arrow1.png",
+      "images": ["./images/arrow2.jpg"],
+      "description": "Nothing can be as classy as classic American style. They are evergreen and gentleman's style. Arrow has mastered it. They are known for their classic American style apparel. However, they also managed to bring something new with a similar classical format. For instance, their latest products are an Anti UV shirt that blocks 97% of harmful UV rays, nothing would be as suitable as this for summer. Pacific D21 Mall holds a full-fledged Arrow Clothing outlet. You will always find something trendy and fresh that'll definitely make your everyday stylish. Additionally, they offer discounts every so often.",
+      "storeDetails": {
+        "contact": "011-61408179",
+        "address": "05, First Floor"
+      }
+    },
+
+    {
+      "id": 2,
+      "name": "AURELIA",
+      "locations": ["dwarka"],
+      "filter": ["Apparel"],
+      "logo": "./images/aurelia1.png",
+      "images": ["./images/aurelia2.jpg"],
+      "description": "Comfort, style and affordable are the three foundations of Aurelia. They offer easy-to-wear clothes for modern Indian women. Their aesthetic way to reconsider the customs ends up with wide range of jaw-dropping products. Their priority is on quality, fabrics, design, and ready-to-wear size. Aurelia is the first brand that studied women shape, structure and size classification in such a way that they offer 7 classifications of sizes instead of three. At Pacific D21 Mall, they offer their latest collections in stunning discounts.",
+      "storeDetails": {
+        "contact": "011-66502039",
+        "address": "13, First Floor"
+      }
+    },
+
+    {
+      "id": 3,
+      "name": "BIBA",
+      "locations": ["dwarka"],
+      "filter": ["Apparel"],
+      "logo": "./images/biba1.png",
+      "images": ["./images/biba2.jpg"],
+      "description": "Biba is a Punjabi word means a young and pretty girl. The brand carry same notion to make every woman a Biba. Started in 1986, the brand established as a leading ethical fashion manufacturer and marketer. From the starting and still continuing the same objective, Biba focuses on the fashion at an affordable price. Biba is a pioneer brand that features in several Bollywood movies. They started from 'Na tum janona hum' in 2004 and then it covered ten more including Devdas and Baghban. Visit Biba in Pacific D21 Mall, you will find varieties and aesthetic designs. Their huge collection of ethnic wear is worth your visit.",
+      "storeDetails": {
+        "contact": "011-61408597",
+        "address": "12, First Floor"
+      }
+    },
+
+    {
+      "id": 4,
+      "name": "BLACKBERRYS",
+      "locations": ["dwarka"],
+      "filter": ["Apparel"],
+      "logo": "./images/blackberry1.png",
+      "images": ["./images/blackberry2.jpg"],
+      "description": "They never stop evolving and indeed, they have contributed too much to the fashion world. Blackberrys are everything about menswear. Their stitch to perfection approach includes them among the finest apparel brands in the world. They say what they do, they do well. Quality is definitely the major concern for the shoppers which makes them opt in for Blackberrys. They do not go with the trend, but Blackberrys create the trends. Their Packable Travel Blazers are one of the impressive innovations where you can pack your blazer in a tiny bag, and the jacket remains wrinkle-free. Visit your favourite Pacific D21 mall and encounter the perfection in clothing.",
+      "storeDetails": {
+        "contact": "011-66502034",
+        "address": "07, First Floor"
+      }
+    },
+
+    {
+      "id": 5,
+      "name": "CARLTON LONDON",
+      "locations": ["dwarka"],
+      "filter": ["Apparel"],
+      "logo": "./images/carlton1.png",
+      "images": ["./images/carlton2.jpg"],
+      "description": "Carlton London is a leading premium fashion brands that offers a wide range of trendy and fashionable footwear and accessories for both men and women. The collection includes premium shoes, boots, sandals, bags, wallets, and more designed to suit different occasions and styles. The products are made with the highest quality materials and are designed to meet the latest fashion trends. With over 25 years of experience in the fashion industry, Carlton London has become a trusted name in the fashion industry. At Carlton London, the brand is committed to providing our customers with the best possible shopping experience.",
+      "storeDetails": {
+        "contact": "011-61408595",
+        "address": "First Floor"
+      }
+    },
+
+    {
+      "id": 6,
+      "name": "CARLTON LONDON",
+      "locations": ["dwarka"],
+      "filter": ["Apparel"],
+      "logo": "./images/carlton1.png",
+      "images": ["./images/carlton2.jpg"],
+      "description": "Carlton London is a leading premium fashion brands that offers a wide range of trendy and fashionable footwear and accessories for both men and women. The collection includes premium shoes, boots, sandals, bags, wallets, and more designed to suit different occasions and styles. The products are made with the highest quality materials and are designed to meet the latest fashion trends. With over 25 years of experience in the fashion industry, Carlton London has become a trusted name in the fashion industry. At Carlton London, the brand is committed to providing our customers with the best possible shopping experience.",
+      "storeDetails": {
+        "contact": "011-61408595",
+        "address": "First Floor"
+      }
+    }
+
+
+
+
+
+  ]
+}

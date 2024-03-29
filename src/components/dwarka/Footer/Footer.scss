@@ -1,0 +1,79 @@
+body{
+  color: #505050;
+  margin: 0;
+}
+
+.columns {
+  // position: fixed;
+  bottom: 0;
+  background-color: #f0d6aa4f;
+  padding: 2.5rem 3rem;
+  display: grid;
+  grid-template-columns: 1fr 1fr 1fr 1fr;
+  padding-bottom: 4rem;
+
+  .column1{
+
+    .dwarkaLogo {
+      border-bottom: 1px solid black;
+  
+      img {
+        height: 3.7rem;
+        padding: 1rem;
+        // border-bottom: 1px solid black;
+      }
+  
+    }
+
+    .links{
+      padding: 0;
+      display: flex;
+      // justify-content: start;
+      // margin-right: auto;
+
+      li{
+
+        font-size: 1.2rem;
+        
+      }
+      
+      svg{
+        color: rgb(80, 78, 78);
+        border: 1.5px solid white;
+        border-radius: 50%;
+        padding: 0.4rem;
+
+      }
+    }
+
+  }
+
+  ul{
+
+    h2{
+      font-size: 1.1rem;
+    font-weight: 600;
+    border-bottom: 1px solid black;
+    padding-bottom: 1rem;
+    }
+    
+
+    li{
+      font-size: 0.85rem;
+      font-weight: 100;
+      list-style-type: none;
+      padding: 0.7rem;
+    }
+  }
+
+  .column4{
+    
+    iframe{
+      border: none;
+      margin-left: 3rem;
+      margin-top: 1rem;
+
+    }
+  }
+
+}
